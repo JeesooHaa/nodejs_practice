@@ -1,0 +1,14 @@
+{
+  "name": "simple_route",
+  "version": "1.0.0",
+  "description": "simple route with node.js ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JeesooHaa",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^1.4.0"
+  }
+}

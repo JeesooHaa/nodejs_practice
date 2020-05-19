@@ -1,4 +1,4 @@
-let messages = [
+exports.messages = [
     "hello",
     "hi",
     "bye"
