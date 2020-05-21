@@ -1,7 +1,7 @@
 {
-  "name": "06_better_routes",
+  "name": "07_first_express_project",
   "version": "1.0.0",
-  "description": "better routes ",
+  "description": "first express project ",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,6 +9,6 @@
   "author": "JeesooHaa",
   "license": "ISC",
   "dependencies": {
-    "http-status-codes": "^1.4.0"
+    "express": "^4.17.1"
   }
 }
