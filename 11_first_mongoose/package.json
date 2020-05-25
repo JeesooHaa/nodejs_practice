@@ -1,0 +1,17 @@
+{
+  "name": "11_first_mongoose",
+  "version": "1.0.0",
+  "description": "first mongoose ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "JeesooHaa",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.15"
+  }
+}

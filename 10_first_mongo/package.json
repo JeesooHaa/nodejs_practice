@@ -1,0 +1,15 @@
+{
+  "name": "10_first_mongo",
+  "version": "1.0.0",
+  "description": "first mongodb connect",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "JeesooHaa",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.7"
+  }
+}
